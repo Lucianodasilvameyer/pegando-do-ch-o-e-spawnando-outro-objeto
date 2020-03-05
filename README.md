@@ -1,0 +1,1 @@
+# pegando-do-ch-o-e-spawnando-outro-objeto
